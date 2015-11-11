@@ -8,4 +8,5 @@ What is the order of magnitude of the number of requirements we are discussing?
 Approximately 1000 requirements are considered to be large scale according to the paper "Can We Beat the Complexity of
 Very Large-Scale Requirements Engineering?".
 
-Release planning: 
+Release planning: Prioritising RP depends on stakeholders, and prioritising stakeholders depends on prioritising features.
+
