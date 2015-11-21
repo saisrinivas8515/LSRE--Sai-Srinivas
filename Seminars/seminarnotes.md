@@ -42,3 +42,23 @@ A Case Study Evaluation of the Guideline-Supported QUPER Model for Elicitation o
 6. Set candidate requirements
 7. Identify cost dependencies
 Based on the guidelines mentioned above, questions were framed for case study. The following were the results of the case study conducted: QUPER model is easy to understand and implement. Roadmap view is the most most important view as it shows both cost and benefit views. Benefit view may be helpful when specifying QR, and the least important one is cost view. 
+
+
+A Cost–Value Approach for Prioritising Requirements:
+
+	 Author makes statements about the problems in selecting the subset of requirements which satisfies the customer needs and that matches the time given to complete and different estimations. Authors developed a tool for requirements prioritisation on a cost value based approach. The tool can prioritise the candidate requirements in two dimensions:
+1. According to their value to the customers.
+2. According to the estimated cost of implementation.   
+The cost value approach prioritise requirement according to their relative value and cost.
+Process: 1. Requirement engineers make sure that the specified requirements are complete and unambiguity. 
+	 2. Customers or users apply AHP(Analytical Hierarchy Process) pairwise comparison method to access the 			   	    relative value.
+	 3. Experienced software engineers apply AHP’s pairwise comparison to check relative cost to implement each 			             candidate requirement.
+	 4. A software engineer uses AHP to calculate each candidate requirement’s relative value and implementation      		             cost, and plots these on a cost–value diagram.
+	 5. Stakeholders use cost-value diagram as a conceptual map for analysing and discussing.
+AHP(Analytical Hierarchy Process):
+	To help us make decisions(identify, analyse and make tradeoffs), AHP compares alternatives in a stepwise fashion and measures their contribution. The steps are as follows:
+1. Set up the n requirements in the rows and columns of an n × n matrix(incase you have 4 requirements place and you want to know their relative value, place them in 4*4 matrix). 
+2. Perform pairwise comparisons of all the requirements according to the criterion.
+3. Use averaging over normalised columns to estimate the eigenvalues of the matrix 
+4. Assign each requirement its relative value based on the estimated eigenvalues.
+A case study was conducted to know the usage of cost value analysis and the results were plotted on cost value analysis graph.  
