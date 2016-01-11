@@ -61,4 +61,22 @@ AHP(Analytical Hierarchy Process):
 2. Perform pairwise comparisons of all the requirements according to the criterion.
 3. Use averaging over normalised columns to estimate the eigenvalues of the matrix 
 4. Assign each requirement its relative value based on the estimated eigenvalues.
-A case study was conducted to know the usage of cost value analysis and the results were plotted on cost value analysis graph.  
+A case study was conducted to know the usage of cost value analysis and the results were plotted on cost value analysis graph.
+
+A Method for Early Requirements Triage and Selection Utilising Product Strategies:
+	Market driven development is gaining interest in the recent times and it is directly affecting software development, more precisely requirements. The growing interest for the customer specific software development is responsible for the change. The main difference between MDRE and the traditional way is, it comes from internal sources (dev., sales team, bug reports etc.,) and external sources (users, customers, competitors etc.,). 
+This paper presents a method that utilizes strategies for early requirements triage. Performing a early triage (discarding inappropriate) can help while doing a large scale requirements. Author proposed two methods both based on a few questions: “where do we want to go”, finding out the right balance between the long term goals and short term objectives. “how will we get there”, Product strategy. “what to do”, rules of road. “why would we be successful”, to produce a competitive product strategy. “when will we get there”, roadmap. 
+Part one triage: Early requirement triage, step 1 is to specify the questions, “where we want to go”, “how will we get there”, “what to do”. Step 2 is assigning weights to the answers of the questions “where to go”, “How to get there”, “where to do”. Step 3 is comparing the requirements, as of give points out of 100 for each the answers of requirements.
+Part two Requirements selection for each release, Consists of 2 steps, Step 1 is to specify product-technology roadmap, gives an overview of the relationship between the product releases and successive technologies. Step 2 is Estimating the resources, using models such as COCOMO. 
+Part three Strategy Rationale, documentation of the reasoning to the decisions that are answered previously in strategic questions. 
+Industrial validation of MERTS is done and has been found that the method would offer decision support and structure, clarify goals, objectives and enable requirements triage. The method is found to have some drawbacks, it consumes a lot of time at the start of the project and it is a resource intense process to gather as it has the process of consulting different stake holders for the sake of business goals and formalizing them to a common set. 
+
+Quality Requirements in Industrial Practice- An Extended Interview Study at Eleven Companies
+	When the functional requirements are only considered in a developing a product it leads to dissatisfaction and failure. So while developing a product, Quality Requirements should be focused. The authors identified two types of the companies called business to business companies(B2B) and Business to customer(B2C).  
+The main goals of the article is to  investigate the most important quality requirement, the interdependencies between the quality requirements in the companies and how the cost estimation is performed and how accurate is it on the quality requirements. 
+Authors conducted interviews in 11 companies based on the questions framed and has been identified,
+the most important quality requirement for B2C is usability and B2B is safety. 
+The most common interdependency types are found as REQUIRES to B2C and CVALUE to B2B. Finding dependencies is identified to be a complex task and with large scale in place it is further more difficult, but they have impact on the planning, design and quality. 
+There isn’t any distinction between the quality requirements and functional requirements during the cost estimation.
+The quality requirement that are dismissed are not reassessed, authors have depicted that during the dismissal of quality requirements there is a clear gap between the project leader and project manager. Quality is requirements are dismissed for the reasons such as low priority than functional requirements and cost estimation.
+  
